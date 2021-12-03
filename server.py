@@ -5,7 +5,7 @@ from passlib.hash import pbkdf2_sha256
 import api
 import functions
 import os
-
+#test new comment
 app = Flask(__name__)
 
 # Required to use Flask sessions, Debug toolbar
